@@ -1,2 +1,2 @@
 # tools
-TEST
+test
